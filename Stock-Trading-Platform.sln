@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackfinch.StockTradingPlatform.Api", "Blackfinch.StockTradingPlatform.Api\Blackfinch.StockTradingPlatform.Api.csproj", "{6C8CAE9B-B872-42E1-9F29-0BE261E260A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackfinch.StockTradingPlatform.Core", "Blackfinch.StockTradingPlatform.Core\Blackfinch.StockTradingPlatform.Core.csproj", "{FEE47E11-2D18-4F25-ADE3-5915B7107246}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackfinch.StockTradingPlatform.Data", "Blackfinch.StockTradingPlatform.Data\Blackfinch.StockTradingPlatform.Data.csproj", "{EBBF00C5-31E4-4BC6-8ACB-AB7CEED52B85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackfinch.StockTradingPlatform.Core.Test", "Blackfinch.StockTradingPlatform.Core.Test\Blackfinch.StockTradingPlatform.Core.Test.csproj", "{A025BE7D-044F-4359-B93C-5ADDD54DE955}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C8CAE9B-B872-42E1-9F29-0BE261E260A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8CAE9B-B872-42E1-9F29-0BE261E260A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8CAE9B-B872-42E1-9F29-0BE261E260A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8CAE9B-B872-42E1-9F29-0BE261E260A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEE47E11-2D18-4F25-ADE3-5915B7107246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE47E11-2D18-4F25-ADE3-5915B7107246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE47E11-2D18-4F25-ADE3-5915B7107246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE47E11-2D18-4F25-ADE3-5915B7107246}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBBF00C5-31E4-4BC6-8ACB-AB7CEED52B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBBF00C5-31E4-4BC6-8ACB-AB7CEED52B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBBF00C5-31E4-4BC6-8ACB-AB7CEED52B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBBF00C5-31E4-4BC6-8ACB-AB7CEED52B85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A025BE7D-044F-4359-B93C-5ADDD54DE955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A025BE7D-044F-4359-B93C-5ADDD54DE955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A025BE7D-044F-4359-B93C-5ADDD54DE955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A025BE7D-044F-4359-B93C-5ADDD54DE955}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
