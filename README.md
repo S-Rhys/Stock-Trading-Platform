@@ -4,7 +4,7 @@ Stock-Trading-Platform
 
   
 
-Stock trading platform built for the Blackfinch technical test. Requirements available here: Link 
+Stock trading platform built for the Blackfinch technical test. Requirements available here: _[Link](https://github.com/blackfinch-devops/Test-Api)_ 
 
   
 
